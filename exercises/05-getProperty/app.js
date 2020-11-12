@@ -1,9 +1,12 @@
 const getProperty = (obj, key) =>  {
   // your code here
   
-  let car = {
+  var car = {
       model: 'Toyota'
   };
+   return car.model
 };
-var output = getProperty('car', 'Toyota');
-console.log(output);
+ 
+console.log(getProperty('car', 'model'));
+
+

@@ -1,3 +1,4 @@
-function addProperty(obj, key) {
+const addProperty = (obj, key) => {
+    if()
   // your code here
 }

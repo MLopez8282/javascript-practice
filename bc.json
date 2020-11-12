@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://fd26ae61-4679-4b8d-b26b-c5fe97f22c48.ws-us02.gitpod.io",
+    "address": "https://de9550d7-081f-4393-aae9-460267aa4307.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -116,7 +116,7 @@
         {
             "slug": "08-checkAge",
             "title": "08-checkAge",
-            "done": false,
+            "done": true,
             "path": "exercises/08-checkAge",
             "translations": [
                 "es",
@@ -171,7 +171,7 @@
         {
             "slug": "13-isLessThanThirty",
             "title": "13-isLessThanThirty",
-            "done": false,
+            "done": true,
             "path": "exercises/13-isLessThanThirty",
             "translations": [
                 "es",
@@ -182,7 +182,7 @@
         {
             "slug": "14-equalsTen",
             "title": "14-equalsTen",
-            "done": false,
+            "done": true,
             "path": "exercises/14-equalsTen",
             "translations": [
                 "es",
@@ -193,7 +193,7 @@
         {
             "slug": "15-isLessThan",
             "title": "15-isLessThan",
-            "done": false,
+            "done": true,
             "path": "exercises/15-isLessThan",
             "translations": [
                 "es",
@@ -204,7 +204,7 @@
         {
             "slug": "16-isGreaterThan",
             "title": "16-isGreaterThan",
-            "done": false,
+            "done": true,
             "path": "exercises/16-isGreaterThan",
             "translations": [
                 "es",
@@ -215,7 +215,7 @@
         {
             "slug": "17-isEqualTo",
             "title": "17-isEqualTo",
-            "done": false,
+            "done": true,
             "path": "exercises/17-isEqualTo",
             "translations": [
                 "es",
@@ -226,7 +226,7 @@
         {
             "slug": "18-isEven",
             "title": "18-isEven",
-            "done": false,
+            "done": true,
             "path": "exercises/18-isEven",
             "translations": [
                 "es",
@@ -237,7 +237,7 @@
         {
             "slug": "19-isOdd",
             "title": "19-isOdd",
-            "done": false,
+            "done": true,
             "path": "exercises/19-isOdd",
             "translations": [
                 "es",
@@ -270,7 +270,7 @@
         {
             "slug": "22-isEitherEven",
             "title": "22-isEitherEven",
-            "done": false,
+            "done": true,
             "path": "exercises/22-isEitherEven",
             "translations": [
                 "es",
@@ -303,7 +303,7 @@
         {
             "slug": "25-isEvenAndGreaterThanTen",
             "title": "25-isEvenAndGreaterThanTen",
-            "done": false,
+            "done": true,
             "path": "exercises/25-isEvenAndGreaterThanTen",
             "translations": [
                 "es",
@@ -325,7 +325,7 @@
         {
             "slug": "27-computeAreaOfATriangle",
             "title": "27-computeAreaOfATriangle",
-            "done": false,
+            "done": true,
             "path": "exercises/27-computeAreaOfATriangle",
             "translations": [
                 "es",
