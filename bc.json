@@ -83,7 +83,7 @@
         {
             "slug": "05-getProperty",
             "title": "05-getProperty",
-            "done": false,
+            "done": true,
             "path": "exercises/05-getProperty",
             "translations": [
                 "es",
@@ -94,7 +94,7 @@
         {
             "slug": "06-addProperty",
             "title": "06-addProperty",
-            "done": false,
+            "done": true,
             "path": "exercises/06-addProperty",
             "translations": [
                 "es",
@@ -105,7 +105,7 @@
         {
             "slug": "07-removeProperty",
             "title": "07-removeProperty",
-            "done": false,
+            "done": true,
             "path": "exercises/07-removeProperty",
             "translations": [
                 "es",
@@ -127,7 +127,7 @@
         {
             "slug": "09-getFullName",
             "title": "09-getFullName",
-            "done": false,
+            "done": true,
             "path": "exercises/09-getFullName",
             "translations": [
                 "es",
@@ -248,7 +248,7 @@
         {
             "slug": "20-isSameLength",
             "title": "20-isSameLength",
-            "done": false,
+            "done": true,
             "path": "exercises/20-isSameLength",
             "translations": [
                 "es",
@@ -259,7 +259,7 @@
         {
             "slug": "21-areBothOdd",
             "title": "21-areBothOdd",
-            "done": false,
+            "done": true,
             "path": "exercises/21-areBothOdd",
             "translations": [
                 "es",
@@ -281,7 +281,7 @@
         {
             "slug": "23-isOddLength",
             "title": "23-isOddLength",
-            "done": false,
+            "done": true,
             "path": "exercises/23-isOddLength",
             "translations": [
                 "es",
@@ -292,7 +292,7 @@
         {
             "slug": "24-isEvenLength",
             "title": "24-isEvenLength",
-            "done": false,
+            "done": true,
             "path": "exercises/24-isEvenLength",
             "translations": [
                 "es",
@@ -314,7 +314,7 @@
         {
             "slug": "26-average",
             "title": "26-average",
-            "done": false,
+            "done": true,
             "path": "exercises/26-average",
             "translations": [
                 "es",
@@ -336,7 +336,7 @@
         {
             "slug": "28-cube",
             "title": "28-cube",
-            "done": false,
+            "done": true,
             "path": "exercises/28-cube",
             "translations": [
                 "es",
@@ -347,7 +347,7 @@
         {
             "slug": "29-square",
             "title": "29-square",
-            "done": false,
+            "done": true,
             "path": "exercises/29-square",
             "translations": [
                 "es",
@@ -358,7 +358,7 @@
         {
             "slug": "30-computeAverageLengthOfWords",
             "title": "30-computeAverageLengthOfWords",
-            "done": false,
+            "done": true,
             "path": "exercises/30-computeAverageLengthOfWords",
             "translations": [
                 "es",
@@ -369,7 +369,7 @@
         {
             "slug": "80-getAverageOfElementsAtProperty",
             "title": "80-getAverageOfElementsAtProperty",
-            "done": false,
+            "done": true,
             "path": "exercises/80-getAverageOfElementsAtProperty",
             "translations": [
                 "es",
@@ -380,7 +380,7 @@
         {
             "slug": "81-addToFrontOfNew",
             "title": "81-addToFrontOfNew",
-            "done": false,
+            "done": true,
             "path": "exercises/81-addToFrontOfNew",
             "translations": [
                 "es",
@@ -413,7 +413,7 @@
         {
             "slug": "84-areValidCredentials",
             "title": "84-areValidCredentials",
-            "done": false,
+            "done": true,
             "path": "exercises/84-areValidCredentials",
             "translations": [
                 "es",

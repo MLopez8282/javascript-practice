@@ -1,5 +1,5 @@
 // Write your function here
 const cube = num => {
- //Math.cbrt ?
-}
-console.log(cube())
+    return num * num * num;
+};
+console.log(cube(3))

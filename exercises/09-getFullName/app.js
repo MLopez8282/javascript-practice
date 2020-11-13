@@ -1,6 +1,6 @@
 const getFullName = (firstName, lastName) => {
     
-    return `Hi, my name is ${firstName} ${lastName}`;
+    return `${firstName} ${lastName}`;
   
   // your code here
 }

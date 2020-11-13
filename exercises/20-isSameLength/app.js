@@ -7,4 +7,4 @@ const isSameLength = (word1, word2) => {
     }
 };
 
-console.log(isSameLength(job, fish))
+console.log(isSameLength('joe', 'fish'))
