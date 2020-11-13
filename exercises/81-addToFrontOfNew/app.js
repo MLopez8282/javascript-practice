@@ -1,7 +1,7 @@
 // Write your function here
 const addToFrontOfNew = (arr, element) => {
     let newArray = [];
-    newArray.push(element)
+    newArray.unshift(element)
    let total = newArray.concat(arr)
     return total;
 };

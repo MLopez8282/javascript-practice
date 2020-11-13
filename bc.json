@@ -424,7 +424,7 @@
         {
             "slug": "85-getIndexOf",
             "title": "85-getIndexOf",
-            "done": false,
+            "done": true,
             "path": "exercises/85-getIndexOf",
             "translations": [
                 "es",
