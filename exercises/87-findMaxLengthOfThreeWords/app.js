@@ -8,3 +8,4 @@ const findMaxLengthOfThreeWords = (word1, word2, word3) => {
  
 }
 console.log(findMaxLengthOfThreeWords('joe', 'what', 'ok'))
+//why parameters are put in brackets when assigned to variable?
