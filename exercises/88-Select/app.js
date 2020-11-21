@@ -1,9 +1,11 @@
 // Write your function here
 const select = (arr,obj) => {
+   
     let newObj ={};
     
-    for(let i=0; i<obj.length; i++){
-    return newObj.push(arr[i])
+    for(let i=0; i< arr.length; i++){
+    newObj[arr[i]] = obj['a']
+
     }
     
 }
@@ -15,4 +17,4 @@ var obj = {
   d: 4
 };
 var output = select(arr,obj)
-console.log(output)
+console.log(output) 

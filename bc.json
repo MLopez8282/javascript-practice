@@ -391,7 +391,7 @@
         {
             "slug": "82-addToBackOfNew",
             "title": "82-addToBackOfNew",
-            "done": false,
+            "done": true,
             "path": "exercises/82-addToBackOfNew",
             "translations": [
                 "es",
@@ -402,7 +402,7 @@
         {
             "slug": "83-getAllElementsButNth",
             "title": "83-getAllElementsButNth",
-            "done": false,
+            "done": true,
             "path": "exercises/83-getAllElementsButNth",
             "translations": [
                 "es",
@@ -435,7 +435,7 @@
         {
             "slug": "86-findMinLengthOfThreeWords",
             "title": "86-findMinLengthOfThreeWords",
-            "done": false,
+            "done": true,
             "path": "exercises/86-findMinLengthOfThreeWords",
             "translations": [
                 "es",
@@ -446,7 +446,7 @@
         {
             "slug": "87-findMaxLengthOfThreeWords",
             "title": "87-findMaxLengthOfThreeWords",
-            "done": false,
+            "done": true,
             "path": "exercises/87-findMaxLengthOfThreeWords",
             "translations": [
                 "es",
@@ -501,7 +501,7 @@
         {
             "slug": "92-getElementsGreaterThanTenAtProperty",
             "title": "92-getElementsGreaterThanTenAtProperty",
-            "done": false,
+            "done": true,
             "path": "exercises/92-getElementsGreaterThanTenAtProperty",
             "translations": [
                 "es",
@@ -512,7 +512,7 @@
         {
             "slug": "93-removeElement",
             "title": "93-removeElement",
-            "done": false,
+            "done": true,
             "path": "exercises/93-removeElement",
             "translations": [
                 "us",
@@ -523,7 +523,7 @@
         {
             "slug": "94-getFirstElementOfProperty",
             "title": "94-getFirstElementOfProperty",
-            "done": false,
+            "done": true,
             "path": "exercises/94-getFirstElementOfProperty",
             "translations": [
                 "es",
@@ -534,7 +534,7 @@
         {
             "slug": "95-getNthElementOfProperty",
             "title": "95-getNthElementOfProperty",
-            "done": false,
+            "done": true,
             "path": "exercises/95-getNthElementOfProperty",
             "translations": [
                 "es",
@@ -545,7 +545,7 @@
         {
             "slug": "96-getLastElementOfProperty",
             "title": "96-getLastElementOfProperty",
-            "done": false,
+            "done": true,
             "path": "exercises/96-getLastElementOfProperty",
             "translations": [
                 "es",
@@ -567,7 +567,7 @@
         {
             "slug": "98-getOddLengthWordsAtProperty",
             "title": "98-getOddLengthWordsAtProperty",
-            "done": false,
+            "done": true,
             "path": "exercises/98-getOddLengthWordsAtProperty",
             "translations": [
                 "es",
@@ -578,7 +578,7 @@
         {
             "slug": "99-computeAverageOfNumbers",
             "title": "99-computeAverageOfNumbers",
-            "done": false,
+            "done": true,
             "path": "exercises/99-computeAverageOfNumbers",
             "translations": [
                 "es",

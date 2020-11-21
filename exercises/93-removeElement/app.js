@@ -1,13 +1,10 @@
 // Write your function here
 const removeElement = discarder => {
-    let arr= 0
+    let arr= []
 if (arr !== discarder){
     return arr 
-}else{
-    return ;
+}
 }
 
-}
-
-var output = removeElement([3,4,5,]);
+var output = removeElement([1,2,3,2,1]);
 console.log(output)

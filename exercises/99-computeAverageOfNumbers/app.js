@@ -1,6 +1,10 @@
 // Write your function here
 const computeAverageOfNumbers = input => {
-    return (input+ input) / 2
+    var total = 0;
+for(var i = 0; i < input.length; i++) {
+    total += input[i] / input.length ;
+}
+return total
 }
 var input = [1,2,3,4,5];
 var output = computeAverageOfNumbers(input);

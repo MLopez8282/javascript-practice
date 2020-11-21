@@ -1,11 +1,10 @@
 // Write your function here
 const findMaxLengthOfThreeWords = (word1, word2, word3) => {
-  let words = [ word1, word2, word3];  
-    for (let i = 0; i < words.length; i++ ){   
-      return Math.max(words[i].length);    
+ 
+      return Math.max(word1.length, word2.length, word3.length);    
     
   }
  
-}
+
 console.log(findMaxLengthOfThreeWords('joe', 'what', 'ok'))
 //why parameters are put in brackets when assigned to variable?

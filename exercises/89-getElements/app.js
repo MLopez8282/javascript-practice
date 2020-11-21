@@ -1,14 +1,17 @@
 // Write your function here
 const getElementsThatEqual10AtProperty = (obj,key) => {
- newArray = [];
-   if(obj.key === 10){
-       return newArray.push(obj.key);
-   }else{
-       return newArray
-   }
-   
+ let newArray = [];
+ let equalTen = obj[key]
+for(let i=0; i < equalTen.length; i++){
+    if(equalTen[i] === 10){
+        newArray.push(equalTen[i])
+        
+    } 
+    
 }
+return newArray
+};
 var obj = {
   key: [1000, 10, 50, 10]
 };
-console.log([obj.key])
+console.log(getElementsThatEqual10AtProperty(obj,'key'));
